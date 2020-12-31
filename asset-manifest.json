@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fooddelivery_example/static/css/main.45cc9184.chunk.css",
+    "main.js": "/fooddelivery_example/static/js/main.d2736e62.chunk.js",
+    "main.js.map": "/fooddelivery_example/static/js/main.d2736e62.chunk.js.map",
+    "runtime-main.js": "/fooddelivery_example/static/js/runtime-main.2044cff6.js",
+    "runtime-main.js.map": "/fooddelivery_example/static/js/runtime-main.2044cff6.js.map",
+    "static/css/2.27175f2b.chunk.css": "/fooddelivery_example/static/css/2.27175f2b.chunk.css",
+    "static/js/2.077c47d2.chunk.js": "/fooddelivery_example/static/js/2.077c47d2.chunk.js",
+    "static/js/2.077c47d2.chunk.js.map": "/fooddelivery_example/static/js/2.077c47d2.chunk.js.map",
+    "static/js/3.ae64ef77.chunk.js": "/fooddelivery_example/static/js/3.ae64ef77.chunk.js",
+    "static/js/3.ae64ef77.chunk.js.map": "/fooddelivery_example/static/js/3.ae64ef77.chunk.js.map",
+    "index.html": "/fooddelivery_example/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/fooddelivery_example/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.45cc9184.chunk.css.map": "/fooddelivery_example/static/css/main.45cc9184.chunk.css.map",
+    "static/js/2.077c47d2.chunk.js.LICENSE.txt": "/fooddelivery_example/static/js/2.077c47d2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fooddelivery_example/static/media/background.b5dfce16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2044cff6.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.077c47d2.chunk.js",
+    "static/css/main.45cc9184.chunk.css",
+    "static/js/main.d2736e62.chunk.js"
+  ]
+}
